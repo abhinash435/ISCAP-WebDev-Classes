@@ -1,16 +1,24 @@
-I. What It's All About
+<html>
 
+  <p>
+    <title> <font>  12
+      "I. What It's All About"
+          </font></title>
+<p>
 Whence come the thousands of photographs used every month by newspapers and magazines?
 
 More than that, whence do the photographs come which are used by makers of calendars, postcards, for advertisements, and for illustrating books, stories and articles?
 ---------------------------------
 This little book is a practical, up-to-the-minute answer to the question: "How can I make my camera-work profitable?"
-
+</p>
+ <body>
+   <title>
 A. H. Beardsley,
 Publisher, Photo-Era Magazine.
+   </title>
 ----------------------------------
-
-At first thought, the answer is, "From professional photographers and publisher-photo-services." But professional photographers do not produce one-third of the photographs used, and publisher-photo-services are supplied by that same large number of camerists that supply publications with most of their prints.
+  <p>
+"At first thought, the answer is, "From professional photographers and publisher-photo-services." But professional photographers do not produce one-third of the photographs used, and publisher-photo-services are supplied by that same large number of camerists that supply publications with most of their prints.
 
 No one can deny that the greatest number of prints published are bought from amateur photographers in towns no larger than the average, and sometimes smaller.
 
@@ -28,16 +36,18 @@ Is the field overcrowded? [emphasis]No.[end] If there were ten times as many per
 
 The field—how wide is it? Get out your map of the world. The field for [emphasis]making [end] photographs extends from the top margin to the bottom, and from the left to the right. The field for [emphasis]selling [end] photographs—which is more to the point—extends over about five thousand publications which use prints; not to speak of a few score of other markets.
 
-The markets may be classified briefly:
-
-(1) Newspapers
-(2) Magazines
-(3) Postcard-makers
-(4) Calendar-makers
-(5) Art-study producers
-(6) Illustrations for books
-(7) Illustrations for articles
-(8) Prints for advertising.
+The markets may be classified briefly:"
+  <ol>
+    <li> "(1) Newspapers" </li>
+      <li>"  (2) Magazines"</li>
+     <li>"  (3) Postcard-makers"</li>
+      <li>  "(4) Calendar-makers"</li>
+       <li>     "(5) Art-study producers"</li>
+       <li>     "(6) Illustrations for books"</li>
+        <li>   "(7) Illustrations for articles"</li>
+         <li>  "(8) Prints for advertising."</li>
+   </ol>
+  < p>
 
 And there are more, of more specialised branches.
 
@@ -46,3 +56,5 @@ And how does it pay? Please note: "A certain magazine once paid $100 for four pr
 A set of South-Pole photographs brought $3,000 from Leslie's and $1,000 more from the International Feature Service. These all, though, are very exceptional instances. The average print sells for about three dollars. But there is absolutely nothing in the world to hinder a wide-awake person with a camera from making from several hundred to over $3,000 a year from his prints. If he becomes a specialist he may earn as high as $5,000 or even more.
 
 No discrimination is made between press-photographers. The person wins who "delivers the goods."
+  </p>
+</html>
